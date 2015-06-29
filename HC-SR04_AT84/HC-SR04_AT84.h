@@ -6,8 +6,8 @@
  */ 
 
 
-#ifndef SONARINT_H_
-#define SONARINT_H_
+#ifndef HC_SR04_AT84_H_
+#define HC_SR04_AT84_H_
 
 #define TRIGPRT PORTA
 #define TRIGDDR DDRA
@@ -23,4 +23,4 @@ uint32_t SONARavg();
 
 
 
-#endif /* HC-SR04_AT84_H_ */
+#endif /* HC_SR04_AT84_H_ */
