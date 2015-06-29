@@ -2,7 +2,8 @@
 sonar range finder library for Atmel AT84
 library with functionality for the HC-SR04 sonar range finder, driven by an Atmel ATtiny AT84.
 
-I've successfully compiled and used this code with Atmel Studio 6.2
+I've successfully compiled and used this code with Atmel Studio 6.2, although I've made some name changes.
+If you get compilation errors due to missing 'sonarint' components, these were renamed to 'HC_SR04_AT84'
 
 Most of the functions in this library are selfexplanatory.
 The code assumes that the internal clock is used with the prescaler (1 MHz).
