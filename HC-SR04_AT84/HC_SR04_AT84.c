@@ -10,7 +10,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
-#include "HC-SR04_AT84.h"
+#include "HC_SR04_AT84.h"
 
 volatile uint8_t echoDone = 0;  // 1/0 flag to check if echo is over
 static uint32_t countTimer1 = 0;  // current timer0 count
