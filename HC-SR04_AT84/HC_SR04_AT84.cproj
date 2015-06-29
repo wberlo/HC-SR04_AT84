@@ -96,10 +96,10 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="HC-SR04_AT84.c">
+    <Compile Include="HC_SR04_AT84.c">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="HC-SR04_AT84.h">
+    <Compile Include="HC_SR04_AT84.h">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>
