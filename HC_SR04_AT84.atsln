@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Atmel Studio Solution File, Format Version 11.00
-Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HC-SR04_AT84", "HC_SR04_AT84\HC_SR04_AT84.cproj", "{E7DF072A-64AD-4C9F-872B-EF442CECFAF7}"
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HC_SR04_AT84", "HC_SR04_AT84\HC_SR04_AT84.cproj", "{E7DF072A-64AD-4C9F-872B-EF442CECFAF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
